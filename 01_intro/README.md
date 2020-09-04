@@ -36,6 +36,6 @@
     * What are the outputs of your system?
     * What is the training data? Does the data exist or does it need to be collected?
     * What are the ethical considerations of collecting this data and/or applying this model? Is there a danger that the model will harm individual people or a community? Are there privacy considerations with the data?
-3. Post a link to your post on the [Homework Wiki Page for Assignment 1](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/wiki/Assignment-1a)
+3. Post a link to your post on the [Homework Wiki Page for Assignment 1a](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/wiki/Assignment-1a)
 
 
