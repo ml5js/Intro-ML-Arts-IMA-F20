@@ -54,15 +54,14 @@
 
 ### ml5.js resources
 * [ml5 website](https://ml5js.org)
-* [ml5 web editor examples](https://github.com/ml5js/ml5-examples/)
+* [all ml5 examples](https://examples.ml5js.org/)
 
 ### ml5 code editor examples
-* [Image Classification](https://editor.p5js.org/ml5/sketches/DUxe1Z0DXG)
-* [Drag and Drop Image Classification](https://editor.p5js.org/ima_ml/sketches/C5Ywejvuo)
-* [Webcam Image Classification](https://editor.p5js.org/ml5/sketches/IlF1JFvWjc)
-* [Webcam Image Classification Text to Speech](https://editor.p5js.org/ml5/sketches/Ry7EL4JvA3)
-* [Image Classification Multiple Images](https://editor.p5js.org/ml5/sketches/f3rqIqNey5)
-* [Image Classification Scavenger Hunt](https://editor.p5js.org/ml5/sketches/APzpeXOuEQ)
+* [Image Classification](https://editor.p5js.org/ml5/sketches/ImageClassification)
+* [Drag and Drop Image Classification](https://editor.p5js.org/ima_ml/sketches/rnm3SJmMd)
+* [Webcam Image Classification](https://editor.p5js.org/ml5/sketches/ImageClassification_Video)
+* [Webcam Image Classification Text to Speech](https://editor.p5js.org/ml5/sketches/ImageClassification_VideoSound)
+* [Image Classification Scavenger Hunt](https://editor.p5js.org/ml5/sketches/ImageClassification_VideoScavengerHunt)
 
 ### Defining Machine Learning yet again
 * "Machine learning is programming with examples, not instructions" -- from [Kyle McDonald - Weird Intelligence](https://vimeo.com/304110435).
@@ -85,5 +84,3 @@
 1. Explore [ImageNet](http://image-net.org/index). What surprises you about this data set? What questions do you have? Thinking back to last week’s assignment, can you think of any ethical considerations around how this data was collected Are there privacy considerations with the data?
 2. Using the [ml5.js examples above](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/tree/main/02_ml_models#ml5-code-editor-examples), try running image classification on a variety of images. Pick at least 10 objects in your room. How many of these does it recognize? What other aspects of the image affect the classification, including but not limited to position, scale, lighting, etc.
 3. Document your thoughts on MobileNet and image classification in a blog post and add a link to the [Assignment 1b Wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/wiki/Assignment-1b).
-
-
