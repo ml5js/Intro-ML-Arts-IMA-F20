@@ -4,13 +4,13 @@
 
 ### 1: [Intro!](01_intro)
 * Session 1 (W 9/2): Introduction to Machine Learning
-* Session 2 (W 9/9): Transfer Learning with Teachable Machine
+* Session 2 (W 9/9): Image Classification
 
-### 2: [Machine Learning Models 1](02_ml_models)
-* Session 1 (M 9/14): Image Classification
-* Session 2 (W 9/16): Transfer learning in ml5.js
+### 2: [Transfer Learning](02_transfer_learning)
+* Session 1 (M 9/14): Transfer Learning with Teachable Machine
+* Session 2 (W 9/16): Transfer learning with ml5.js
 
-### 3: [Machine Learning Models 2](03_ml_models)
+### 3: [Machine Learning Models](03_ml_models)
 * Session 1 (M 9/21): Pre-trained models 1
 * Session 2 (W 9/23): Pre-trained models 2
 
