@@ -7,7 +7,7 @@
 * Distinguish between a “feature vector” (aka logits) and the last layer (aka softmax probabilities) of a classification network.
 * Understand the process of “transfer learning.”
 * Learn to save a trained model for re-use later.
-* [Week 2 Slides](https://docs.google.com/presentation/d/10e49FloSXEBOOcC26CKyncPDcM0qDrHYG34C_JMZdEo/edit?usp=sharing)
+* [Week 2 Slides](https://docs.google.com/presentation/d/1BX-oAlZeSoVCUgzqPaklnzIzYQMEHjcFYSQNtx_-8eM/edit?usp=sharing)
 
 ### Supervised Learning
 * From Andrew Ng: "In supervised learning, we are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output."
@@ -23,7 +23,13 @@
 ### Reading / Viewing:
 1. Watch [But what *is* a Neural Network?](https://youtu.be/aircAruvnKk) by 3Blue1Brown
 2. Read [How to Build a Teachable Machine with TensorFlow.js](https://observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js)
-3. Read [Excavating AI: The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai) by Kate Crawford and Trevor Paglen (See: [ImageNet Roulette](https://imagenet-roulette.paglen.com) - going offline Sept 27, 2019).
+3. Read [Excavating AI: The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai) by Kate Crawford and Trevor Paglen.
+
+## Teachable Machine
+* [Teachable Machine 2.0: Making AI easier for everyone](https://youtu.be/T2qQGqZxkD0) from Google
+* [Google's Teachable Machine video tutorials](https://www.youtube.com/playlist?list=PLJfHZtseuscuTQfodmFnbZ3rBgCWsRT9t)
+* [Coding Train Teachable Machine video tutorials](https://thecodingtrain.com/tm)
+
 
 ## Session B
 
