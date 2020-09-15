@@ -18,6 +18,7 @@
 * [Pong ML](https://github.com/matamalaortiz/Pong-ML) by Alejandro Matamala Ortiz
 * [Regression Curve](https://github.com/byjoohyunpark/regression-curve) by Joohyun Park
 * [Asemic Writing Teachable Machine](http://blog.jzhong.today/computationaltypo/Asemic-Writing-Teachable-Machine/) by Jillian Zhong
+* [Tiny Sorter](https://experiments.withgoogle.com/tiny-sorter/view)
 
 ### Reading / Viewing:
 1. Watch [But what *is* a Neural Network?](https://youtu.be/aircAruvnKk) by 3Blue1Brown
