@@ -41,7 +41,17 @@
 
 
 ### Assignment 2B:
-1. Train your own image classifer using transfer learning and ml5.js and apply the model to an interactive p5.js sketch. You can train the model with Teachable Machine or with your own ml5.js code. Feel free to try sound instead of or in addition to images. You may also choose to experiment with a "regression" rather than classification.
+1. Read [Excavating AI: The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai) by Kate Crawford and Trevor Paglen. Consider the following excerpt from the conclusion:
+
+![Ceci n’est pas une pipe.](https://upload.wikimedia.org/wikipedia/en/b/b9/MagrittePipe.jpg)
+
+> The artist René Magritte completed a painting of a pipe and coupled it with the words “Ceci n’est pas une pipe.” Magritte called the painting La trahison des images, “The Treachery of Images.”
+> Magritte’s assumption was almost diametrically opposed: that images in and of themselves have, at best, a very unstable relationship to the things seem to represent, one that can be sculpted by whoever has the power to say what a particular image means. For Magritte, the meaning of images is relational, open to contestation. At first blush, Magritte’s painting might seem like a simple semiotic stunt, but the underlying dynamic Magritte underlines in the painting points to a much broader politics of representation and self-representation.
+
+Reflect on the relationship between labels and images in a machine learning image classification dataset? Who has the power to label images and how do those labels and associated digital technologies impact society?
+
+2. Train your own image classifer using transfer learning and ml5.js and apply the model to an interactive p5.js sketch. You can train the model with Teachable Machine or with your own ml5.js code. Feel free to try sound instead of or in addition to images. You may also choose to experiment with a "regression" rather than classification.
     * [Teachable Machine ml5.js example for Image Classification](https://editor.p5js.org/ima_ml/sketches/8Wmwnig7-)
     * [Teachable Machine ml5.js example for Sound Classification](https://editor.p5js.org/ima_ml/sketches/xcdqphiVj)
-2. Document your exercise in a blog post and add a link to the post and your p5 sketch on the [Assignment 2 Wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/wiki/Assignment-2). In your blog post, include visual documentation such as a recorded screen capture / video of your training session and sketch running in the browser.
+
+3. Document your reading reflections and your coding exercise in a blog post and add a link to the post / your p5 sketch on the [Assignment 2 Wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/wiki/Assignment-2). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of training the model and working in p5. You may write include both in one post or write two separate posts if you prefer.
