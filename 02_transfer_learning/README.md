@@ -40,7 +40,7 @@
 * [ml5.js: Save/Load Model - video tutorial](https://youtu.be/eU7gIy3xV30?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
 
 
-### Assignment 2:
+### Assignment 2
 1. Read [Excavating AI: The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai) by Kate Crawford and Trevor Paglen. Consider the following excerpt from the conclusion:
 
 ![Ceci n’est pas une pipe.](https://upload.wikimedia.org/wikipedia/en/b/b9/MagrittePipe.jpg)
