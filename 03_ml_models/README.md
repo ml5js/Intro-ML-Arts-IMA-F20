@@ -7,7 +7,7 @@
 * Ability to work with PoseNet and ml5.js
 * Ability to work with Object Detection Models (CoCoSSD).
 * Ability to work with Image Segmentation models (UNet and BodyPix) and ml5.js.
-* [Week 3 Slides](https://docs.google.com/presentation/d/1NAIpbSrlXf4dK1ABQa2Mazzqfk-ECc2EK4-UIon9ZZw/edit?usp=sharing)
+* [Week 3 Slides](https://docs.google.com/presentation/d/1kOjvIWjsCKYPEuS3lUjg3jYWGXiFIuCOvU6JUq_ESmo/edit?usp=sharing)
 
 ### ml5 documentation
 * [PoseNet](https://ml5js.org/reference/api-PoseNet/)
@@ -27,17 +27,12 @@
 * [BodyPix Image Segmentation](https://editor.p5js.org/ml5/sketches/BodyPix_Webcamz)
 
 ### Related Projects
+* [Maya Man's PoseNet sketchbook](https://mayaontheinter.net/posenetsketchbook/), [Body, Movement, Language: A.I. Sketches with Bill T. Jones](https://mayaontheinter.net/bodymovementlanguage/)
+* [PoseNet Whack a Mole](https://vibertthio.com/posenet-whack-a-mole/) by Vibert Thio
 * [Sidewalk Orchestra](https://twitter.com/c_valenzuelab/status/979131716907536384) by Cristóbal Valenzuela
 * [Pose Music](https://codepen.io/teropa/full/QxLrMp/) by Tero Parviainen
-* Golan Levin’s Electronic Media Studio (Carnegie Mellon School of Art) students using ml5.js and p5.js:
-    * [Nixel](http://cmuems.com/2018/60212f/nixel/10/12/nixel-body/)
-    * [Chromsan](http://cmuems.com/2018/60212f/chromsan/10/12/chromsan-body/)
-    * [Casher](http://cmuems.com/2018/60212f/casher/10/12/casher-body/)
-    * [Shuann](http://cmuems.com/2018/60212f/shuann/10/12/shuann-body/)
-    * ([all class projects in the Augmented Body Gallery](http://cmuems.com/2018/60212f/deliverables/5-due-10-12/augmented-body-gallery/) using a variety of tools)
-* Tensorflow Pose Estimation Use Cases:
-    * [The Treachery of Sanctuary](https://www.youtube.com/watch?v=I5__9hq-yas&feature=youtu.be) by Chris Milk
-    * [Gait Analysis](https://www.runnersneed.com/expert-advice/gear-guides/gait-analysis.html) from runnersneed
+* [The Treachery of Sanctuary](https://www.youtube.com/watch?v=I5__9hq-yas&feature=youtu.be) by Chris Milk
+* [Gait Analysis](https://www.runnersneed.com/expert-advice/gear-guides/gait-analysis.html) from runnersneed
 
 ## Session B: Coming Soon!
 
