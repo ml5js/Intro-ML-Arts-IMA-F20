@@ -12,8 +12,10 @@
 ### ml5 documentation
 * [PoseNet](https://ml5js.org/reference/api-PoseNet/)
 * Object Detection (documentation in progress)
-* [UNet](https://ml5js.org/reference/api-UNET/)
-* [BodyPix](https://ml5js.org/reference/api-BodyPix/)
+* [UNet](https://learn.ml5js.org/#/reference/unet)
+    * Trained by [Zaid Alyafeai](https://github.com/zaidalyafeai) using [mut1ny - Face/Head segmentation dataset](http://www.mut1ny.com/face-headsegmentation-dataset)
+* [BodyPix](https://learn.ml5js.org/#/reference/bodypix)
+    * [Introducing BodyPix: Real-time Person Segmentation in the Browser with TensorFlow.js](https://medium.com/tensorflow/introducing-bodypix-real-time-person-segmentation-in-the-browser-with-tensorflow-js-f1948126c2a0)
 
 ### ml5 video tutorials
 * [ml5.js Pose Estimation with PoseNet](https://youtu.be/OIo-DIOkNVg?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y), [code](https://editor.p5js.org/codingtrain/sketches/ULA97pJXR)
