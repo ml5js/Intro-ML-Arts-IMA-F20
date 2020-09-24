@@ -36,13 +36,20 @@
 * [The Treachery of Sanctuary](https://www.youtube.com/watch?v=I5__9hq-yas&feature=youtu.be) by Chris Milk
 * [Gait Analysis](https://www.runnersneed.com/expert-advice/gear-guides/gait-analysis.html) from runnersneed
 
-## Session B: Coming Soon!
+## Session B
+
+### Data and Model Biographies
+* [Slides from Ellen Nickles](https://docs.google.com/presentation/d/1Ta8oen66-WgrShq4SdAl_hQ1DZnEWoOdC1wMGlIlswM/edit#slide=id.p)
+* [The Future Is Here!](https://thephotographersgallery.org.uk/whats-on/digital-project/mimi-onuoha-future-here), a commission for The Photographers’ Gallery which examines the process of dataset creation by Mimi Ọnụọha
+* [Feminist Data Set](https://carolinesinders.com/wp-content/uploads/2020/05/Feminist-Data-Set-Final-Draft-2020-0526.pdf) tool kit to interrogate every step of the AI process by Caroline Sinders
+* [Ted Talk: The era of blind faith in big data must end](https://www.youtube.com/watch?v=_2u_eHHzRto) and Cathy O'Neil's [Risk Consulting & Algorithmic Auditing firm](https://orcaarisk.com/)
 
 ### Assignment 3, due Monday Sept 28:
 1. Read [Real-Time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5) by Dan Oved, with editing and illustrations by Irene Alvarado and Alexis Gallo.
 2. Read [Mixing movement and machine](https://medium.com/artists-and-machine-intelligence/mixing-movement-and-machine-848095ea5596) by Maya Man
-4. Read [Review of Deep Learning Algorithms for Image Semantic Segmentation](https://medium.com/@arthur_ouaknine/review-of-deep-learning-algorithms-for-image-semantic-segmentation-509a600f7b57) by Arthur Ouaknine
-5. Read [Humans of AI](https://humans-of.ai/editorial) by Philipp Schmitt
-6. Explore [COCO Dataset](http://cocodataset.org/#explore). What surprises you about this data set? How is it similar or different to ImageNet? What questions do you have? Can you think of any ethical considerations around how this data was collected? Are there privacy considerations with the data?
-
-More details coming soon!
+3. Read [Humans of AI](https://humans-of.ai/editorial) by Philipp Schmitt
+4. Pick [one of the models described in Ellen Nickles slides](https://docs.google.com/presentation/d/1Ta8oen66-WgrShq4SdAl_hQ1DZnEWoOdC1wMGlIlswM/edit#slide=id.p) (PoseNet, UNET, BodyPix, CoCoSSD) and following the examples above and the [ml5.js documentation](http://learn.ml5js.org/) and experiment with controlling elements of a p5.js sketch (color, geometry, sound, text) with the output of the model. (You may also choose a ml5.js model not covered in Ellen's slides)
+5. Read the [Model and Data Biography](https://docs.google.com/presentation/d/1Ta8oen66-WgrShq4SdAl_hQ1DZnEWoOdC1wMGlIlswM/edit#slide=id.p) for the model you picked and consider the following:
+   * What questions do you still have about the model and the associated data? Are there elements you would propose including in the biography? 
+   * How does understanding the provenance of the model and its data inform your creative process?
+6. Document your response to the Data and Model biographies as well as your p5.js sketch in a blog post and add a link to the post / your p5 sketch on the [Assignment 3 Wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/wiki/Assignment-3). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
