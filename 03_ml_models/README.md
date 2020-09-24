@@ -27,7 +27,7 @@
 * [PoseNet Single Image](https://editor.p5js.org/ima_ml/sketches/Gq9bIvoW1)
 * [Object Detection - CoCoSSD](https://editor.p5js.org/ima_ml/sketches/5oQlIcPj2)
 * [UNet Image Segmentation](https://editor.p5js.org/ml5/sketches/UNET_webcam)
-* [BodyPix Image Segmentation](https://editor.p5js.org/ml5/sketches/BodyPix_Webcamz)
+* [BodyPix Image Segmentation](https://editor.p5js.org/ml5/sketches/5kF2Kokx9)
 
 ### Related Projects
 * [Maya Man's PoseNet sketchbook](https://mayaontheinter.net/posenetsketchbook/), [Body, Movement, Language: A.I. Sketches with Bill T. Jones](https://mayaontheinter.net/bodymovementlanguage/)
