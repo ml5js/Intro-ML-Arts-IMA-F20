@@ -9,8 +9,9 @@
 * Ability to work with Image Segmentation models (UNet and BodyPix) and ml5.js.
 * [Week 3 Slides](https://docs.google.com/presentation/d/1kOjvIWjsCKYPEuS3lUjg3jYWGXiFIuCOvU6JUq_ESmo/edit?usp=sharing)
 
-### ml5 documentation
+### Models
 * [PoseNet](https://ml5js.org/reference/api-PoseNet/)
+    * Read [Real-Time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5) by Dan Oved, with editing and illustrations by Irene Alvarado and Alexis Gallo.
 * Object Detection (documentation in progress)
 * [UNet](https://learn.ml5js.org/#/reference/unet)
     * Trained by [Zaid Alyafeai](https://github.com/zaidalyafeai) using [mut1ny - Face/Head segmentation dataset](http://www.mut1ny.com/face-headsegmentation-dataset)
@@ -45,7 +46,6 @@
 * [Ted Talk: The era of blind faith in big data must end](https://www.youtube.com/watch?v=_2u_eHHzRto) and Cathy O'Neil's [Risk Consulting & Algorithmic Auditing firm](https://orcaarisk.com/)
 
 ### Assignment 3, due Monday Sept 28:
-1. Read [Real-Time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5) by Dan Oved, with editing and illustrations by Irene Alvarado and Alexis Gallo.
 2. Read [Mixing movement and machine](https://medium.com/artists-and-machine-intelligence/mixing-movement-and-machine-848095ea5596) by Maya Man
 3. Read [Humans of AI](https://humans-of.ai/editorial) by Philipp Schmitt
 4. Pick [one of the models described in Ellen Nickles slides](https://docs.google.com/presentation/d/1Ta8oen66-WgrShq4SdAl_hQ1DZnEWoOdC1wMGlIlswM/edit#slide=id.p) (PoseNet, UNET, BodyPix, CoCoSSD) and following the examples above and the [ml5.js documentation](http://learn.ml5js.org/) and experiment with controlling elements of a p5.js sketch (color, geometry, sound, text) with the output of the model. (You may also choose a ml5.js model not covered in Ellen's slides)
