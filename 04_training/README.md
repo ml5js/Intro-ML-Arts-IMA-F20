@@ -1,6 +1,6 @@
 # Training a Neural Network
 
-## Session A: What is a Neural Network?
+## Session A: Training a Neural Network
 
 ### Objectives:
 * Learn steps to construct a vanilla neural network and train a classification model with ml5.js.
