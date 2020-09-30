@@ -40,3 +40,37 @@
 * [ml5.js: Save Neural Network Training Data](https://youtu.be/q6cwxORPDo8?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) (12 min)
 * [ml5.js: Save Neural Network Trained Model](https://youtu.be/wUrg9Hjkhg0?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) (11 min)
 * [ml5: Neural Network Regression](https://youtu.be/fFzvwdkzr_c?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) (10 min)
+
+## Session B: Real-time Data
+
+### Objectives:
+* Revisit and examine the concepts of classification and regression as applied to real-time interaction.
+
+### Pose Data as inputs to Neural Network
+* 🎥 [ml5.js: Pose Classification with PoseNet and ml5.neuralNetwork()](https://youtu.be/FYgYyq-xqAw?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
+    * 💻 [Collect Data](https://editor.p5js.org/codingtrain/sketches/kTM0Gm-1q)
+    * 💻 [Load Data](https://editor.p5js.org/codingtrain/sketches/-Ywq20rM9)
+    * 💻 [Deploy Model](https://editor.p5js.org/codingtrain/sketches/c5sDNr8eM)
+* 🎥 [ml5.js: Pose Regression with PoseNet and ml5.neuralNetwork()](https://youtu.be/lob74HqHYJ0?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
+    * 💻 [code all steps](https://editor.p5js.org/codingtrain/sketches/JI_j-PiLk)
+
+### Pixel Data as inputs to Neural Network
+* 🎥 [ml5.js: Train a Neural Network with Pixels as Input](https://youtu.be/UaKab6h9Z0I?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
+    * 💻 [simple image classifier code](https://editor.p5js.org/codingtrain/sketches/rkonHpec2)
+
+### Face Data
+    * 💻 [Train regression model model with Face Keypoints](https://editor.p5js.org/ima_ml/sketches/US3ZX6zCD)
+
+### Project References
+* [ml5 Playful Examples](https://ml5-fellowship-2020.github.io/examples/) by Andreas Refsgaard
+* [Creatability](https://experiments.withgoogle.com/collection/creatability)
+
+### Assignment 5 Due Sunday October 4
+1. Watch [Machine Learning for Human Creative Practice](https://vimeo.com/287094397), Dr. Rebecca Fiebrink at Eyeo 2018. Write a response to the following question posed by Dr. Fiebrink:
+    * How can machine learning support people's existing creative practices? Expand people's creative capabilities?
+2. Dream up and design the inputs and outputs of a real-time machine learning system for interaction and audio/visual performance. This could be an idea well beyond the scope of what you can do in a weekly exercise.
+3. Create your own p5+ml5 sketch that trains a model with real-time interactive data. This can be a prototype of the aforementioned idea or a simple exercise where you run this week's code examples with your own data. Here are some exercise suggestions:
+    * Try to invent more elegant and intuitive interaction for collecting real-time data beyond clicking buttons?
+    * What other real-time inputs might you consider beyond mouse position, image pixels, or face/pose tracking? Could you use real-time sensor data?
+    * What other real-time outputs might you consider beyond color or sound modulation? Could the output be a physical computing device? Multiple outputs like R,G,B values?
+4. Complete a blog post with your response, real-time ML system, and documentation of your code exercise and [link from the homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/wiki/Assignment-5).
