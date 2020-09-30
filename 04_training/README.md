@@ -59,7 +59,7 @@
     * 💻 [simple image classifier code](https://editor.p5js.org/codingtrain/sketches/rkonHpec2)
 
 ### Face Data
-    * 💻 [Train regression model model with Face Keypoints](https://editor.p5js.org/ima_ml/sketches/US3ZX6zCD)
+* 💻 [Train regression model model with Face Keypoints](https://editor.p5js.org/ima_ml/sketches/US3ZX6zCD)
 
 ### Project References
 * [ml5 Playful Examples](https://ml5-fellowship-2020.github.io/examples/) by Andreas Refsgaard
