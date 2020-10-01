@@ -73,4 +73,4 @@
     * Try to invent more elegant and intuitive interaction for collecting real-time data beyond clicking buttons?
     * What other real-time inputs might you consider beyond mouse position, image pixels, or face/pose tracking? Could you use real-time sensor data?
     * What other real-time outputs might you consider beyond color or sound modulation? Could the output be a physical computing device? Multiple outputs like R,G,B values?
-4. Complete a blog post with your response, real-time ML system, and documentation of your code exercise and [link from the homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/wiki/Assignment-5).
+4. Complete a blog post with your response, real-time ML system, and documentation of your code exercise and [link from the homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/wiki/Assignment-4).
