@@ -14,13 +14,13 @@
 * Session 1 (M 9/21): Pre-trained models 1
 * Session 2 (W 9/23): Pre-trained models 2
 
-### 4: [Training a Model](04_diy_neural)
-* Session 1 (M 9/28): Data Collection
-* Session 2 (W 9/30): Model Training
+### 4: [Training a Model](04_training)
+* Session 1 (M 9/28): Real-Time Data Collection
+* Session 2 (W 9/30): Real-Time Model Training
 
-### 5: [Real-Time Data / Interaction](05_diy_neural)
-* Session 1 (M 10/5): Real-Time Data Collection
-* Session 2 (W 10/7): Real-Time Model Training
+### 5: [Datasets and Training](05_training)
+* Session 1 (M 10/5): CSV and JSON Data
+* Session 2 (W 10/7): More Model Training
 
 ### 6: [Convolutional Neural Networks](06_cnn)
 * Session 1 (M 10/12): Image Data
