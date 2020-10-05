@@ -52,10 +52,11 @@
 
 ### Assignment 5 Due Sunday October 11
 
-1. Find a dataset that interests you. Some ideas:
+1. Find a dataset that interests you and link to it from [the assignment 5 wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/wiki/Assignment-5#for-wednesday-oct-7-complete-step-1-of-weeks-assignment) Some ideas:
     * Something you find online. For example, take a look at [Kaggle](https://www.kaggle.com/) and here is a list of [datasets compiled last year](https://github.com/ml5js/Intro-ML-Arts-IMA/wiki/Datasets).
     * Find a dataset that you collect yourself or is already being collected about you. For example, personal data like steps taken per day, browser history, minutes spent on your mobile device, sensor readings, and more.
     * A dataset that you collect by crowdsourcing data. One way to approach this is to create a google form with questions and ask friends and fellow students to complete the form.
+    
 2. After you have found or collected your dataset, write a blog post that addresses these questions:
     * What is (are!) the data?
     * What format is the data in? (CSV, JSON, PDF, or . . )
@@ -65,4 +66,5 @@
     * How and why was this data collected?
     * For whom is this data accurate or useful? What is this data *unrepresentative* of? (Who is missing and left out of the data?)
     * Knowing what you know now about machine learning, what will a model trained on this data help you do? Are there are alternative (non-machine learning) methods you could use instead?
-3. Coming soon!
+    
+3. TBD
