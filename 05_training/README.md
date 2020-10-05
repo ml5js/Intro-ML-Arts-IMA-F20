@@ -9,9 +9,10 @@
     * Understand critical questions to ask (e.g. Who is this for? What’s the context?)
     * Understand the questions to ask about sourcing and collecting data.
     * Learn how to prepare a data set, including how to normalize and properly format it.
-* Diagram the components of a two layer "vanilla" neural network.
 * Review Neural Network architecture
+    * A Single Perceptron
     * Activation Functions
+    * Diagram the components of a simple multi-layered perceptron (XOR)
 * Review the terminology of the training process
     * Training
     * Learning Rate
@@ -28,6 +29,11 @@
    * [What is JSON Part 2](https://youtu.be/118sDpLOClw) - Coding Train p5.js tutorial
    * [JSON Data](https://youtu.be/uxf0--uiX0I) from Coding Train "Data + APIs" tutorial (same as above, lots of extra unrelated stuff here).
 
+### Perceptron
+* [Perceptron Video](https://youtu.be/ntKn5TPHHAk), [Perceptron p5.js code](https://editor.p5js.org/natureofcode/sketches/HkJ0cRmux)
+* [Perceptron Slides](https://drive.google.com/file/d/1io05Uzpb9BclWzXyvB6wEj_Zu4uI_hOX/view?usp=sharing)
+* [Neural Networks (Nature of Code Chapter 10)](http://natureofcode.com/book/chapter-10-neural-networks/)
+
 ### Color Classifier
 * [Full Coding Train Video Series using TensorFlow.js](https://youtu.be/y59-frfKR58?list=PLRqwX-V7Uu6bmMRCIoTi72aNWHo7epX4L), 7.1-7.5 cover how the data was collected and cleaned
 * [Crowdsourcing Colors website](https://codingtrain.github.io/CrowdSourceColorData/index.html), [Crowdsourcing Colors source code](https://github.com/CodingTrain/CrowdSourceColorData)
@@ -36,13 +42,11 @@
 * [Color Classifer JSON Data](https://editor.p5js.org/ima_ml/sketches/WOLz4pub3)
 * [Color Classifier CSV Data](https://editor.p5js.org/ima_ml/sketches/8eskYqyhA)
 
+## Session B: TBD
+
 ### Related Projects
 * [Feminist Data Set](https://carolinesinders.com/feminist-data-set/) by Caroline Sinders
 * [Gender Shades: How well do IBM, Microsoft, and Face++ AI services guess the gender of a face?](http://gendershades.org/) by Joy Buolamwini and Timnit Gebru
-
-### Reading and Viewing
-
-## Session B: TBD
 
 ### Assignment 5 Due Sunday October 11
 
