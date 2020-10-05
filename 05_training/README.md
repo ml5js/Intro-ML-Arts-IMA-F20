@@ -53,7 +53,7 @@
 ### Assignment 5 Due Sunday October 11
 
 1. Find a dataset that interests you. Some ideas:
-    * Something you find online. For example, take a look at [Kaggle](https://www.kaggle.com/) and you can find a list of datasets we've compiled on the [dataset wiki](https://github.com/ml5js/Intro-ML-Arts-IMA/wiki/Datasets).
+    * Something you find online. For example, take a look at [Kaggle](https://www.kaggle.com/) and here is a list of [datasets compiled last year](https://github.com/ml5js/Intro-ML-Arts-IMA/wiki/Datasets).
     * Find a dataset that you collect yourself or is already being collected about you. For example, personal data like steps taken per day, browser history, minutes spent on your mobile device, sensor readings, and more.
     * A dataset that you collect by crowdsourcing data. One way to approach this is to create a google form with questions and ask friends and fellow students to complete the form.
 2. After you have found or collected your dataset, write a blog post that addresses these questions:
