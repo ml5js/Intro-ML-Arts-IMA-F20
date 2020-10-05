@@ -5,10 +5,6 @@
 ### Objectives:
 * Review the full story of building a ML model for classification or regression.
 * Understand how data is formatted and downloaded including CSV and JSON.
-* Consider how to frame the problem and collect data.
-    * Understand critical questions to ask (e.g. Who is this for? What’s the context?)
-    * Understand the questions to ask about sourcing and collecting data.
-    * Learn how to prepare a data set, including how to normalize and properly format it.
 * Review Neural Network architecture
     * A Single Perceptron
     * Activation Functions
@@ -43,6 +39,12 @@
 * [Color Classifier CSV Data](https://editor.p5js.org/ima_ml/sketches/8eskYqyhA)
 
 ## Session B: TBD
+
+### Objectives:
+* Consider how to frame the problem and collect data.
+    * Understand critical questions to ask (e.g. Who is this for? What’s the context?)
+    * Understand the questions to ask about sourcing and collecting data.
+    * Learn how to prepare a data set, including how to normalize and properly format it.
 
 ### Related Projects
 * [Feminist Data Set](https://carolinesinders.com/feminist-data-set/) by Caroline Sinders
