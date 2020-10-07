@@ -38,13 +38,18 @@
 * [Color Classifer JSON Data](https://editor.p5js.org/ima_ml/sketches/WOLz4pub3)
 * [Color Classifier CSV Data](https://editor.p5js.org/ima_ml/sketches/8eskYqyhA)
 
-## Session B: TBD
+## Session B: What is (are!) Data?
 
 ### Objectives:
 * Consider how to frame the problem and collect data.
     * Understand critical questions to ask (e.g. Who is this for? What’s the context?)
     * Understand the questions to ask about sourcing and collecting data.
     * Learn how to prepare a data set, including how to normalize and properly format it.
+
+### Guest presentation from Lydia Jessup!
+* [Data Wrangling Intro slides](https://docs.google.com/presentation/d/1dPB75F-BEjhtHour7_b7b4UidKQ6vGIAOibvUlgg4EA/edit)
+* [Data Discussion Slides](https://docs.google.com/presentation/d/12X2pyI_PlnYxQmRVNIC58_ExsjObkjFOx-XTmQe2vQg/edit#slide=id.g9e5bd34682_0_120)
+* [311 Call ml5.js example](https://editor.p5js.org/lydiajessup/sketches/NQ6iRoAM2)
 
 ### Related Projects
 * [Feminist Data Set](https://carolinesinders.com/feminist-data-set/) by Caroline Sinders
@@ -56,15 +61,13 @@
     * Something you find online. For example, take a look at [Kaggle](https://www.kaggle.com/) and here is a list of [datasets compiled last year](https://github.com/ml5js/Intro-ML-Arts-IMA/wiki/Datasets).
     * Find a dataset that you collect yourself or is already being collected about you. For example, personal data like steps taken per day, browser history, minutes spent on your mobile device, sensor readings, and more.
     * A dataset that you collect by crowdsourcing data. One way to approach this is to create a google form with questions and ask friends and fellow students to complete the form.
-    
-2. After you have found or collected your dataset, write a blog post that addresses these questions:
-    * What is (are!) the data?
-    * What format is the data in? (CSV, JSON, PDF, or . . )
-    * What are the dimensions of the data (rows and columns)?
-    * What are the "variables" (also known as "data items"). In a CSV these would be the column headings. Do you recognize the data types (numbers, strings, images, etc.)?    
+After you have found or collected your dataset, write a blog post that addresses these questions:
+    * Who collected and compiled it?
+    * Why was it collected?
+    * How was it collected?
+    * Describe the data: What are the dimensions? What are the variables and their data types? What can the first 5-20 rows tell us?
     * Is there missing, incorrect, or otherwise problematic data?
-    * How and why was this data collected?
     * For whom is this data accurate or useful? What is this data *unrepresentative* of? (Who is missing and left out of the data?)
     * Knowing what you know now about machine learning, what will a model trained on this data help you do? Are there are alternative (non-machine learning) methods you could use instead?
     
-3. TBD
+2. TBD
