@@ -70,4 +70,9 @@ After you have found or collected your dataset, write a blog post that addresses
     * For whom is this data accurate or useful? What is this data *unrepresentative* of? (Who is missing and left out of the data?)
     * Knowing what you know now about machine learning, what will a model trained on this data help you do? Are there are alternative (non-machine learning) methods you could use instead?
     
-2. TBD
+2. Pick from one of the following three "coding exercise" options:
+    * Option #1: Augment Lydia Jessup's [311 Calls ml5.js example](https://editor.p5js.org/lydiajessup/sketches/NQ6iRoAM2). You could add an additional input field, customize the interface, or change other parameters of `ml5.neuralNetwork()`. 
+    * Option #2: Train a machine learning model in ml5.js with the dataset you picked for part 1 of the assignment.
+    * Option #3: Continue working on your sketch from [Assignment 4](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/wiki/Assignment-4). Document improvements or changes you made. 
+
+3. Complete a blog post with dataset description and documentation of your code exercise. [Link from the homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/wiki/Assignment-5).
