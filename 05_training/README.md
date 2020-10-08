@@ -61,7 +61,8 @@
     * Something you find online. For example, take a look at [Kaggle](https://www.kaggle.com/) and here is a list of [datasets compiled last year](https://github.com/ml5js/Intro-ML-Arts-IMA/wiki/Datasets).
     * Find a dataset that you collect yourself or is already being collected about you. For example, personal data like steps taken per day, browser history, minutes spent on your mobile device, sensor readings, and more.
     * A dataset that you collect by crowdsourcing data. One way to approach this is to create a google form with questions and ask friends and fellow students to complete the form.
-After you have found or collected your dataset, write a blog post that addresses these questions:
+    
+2. Consider the following questions related to your dataset:
     * Who collected and compiled it?
     * Why was it collected?
     * How was it collected?
@@ -70,7 +71,7 @@ After you have found or collected your dataset, write a blog post that addresses
     * For whom is this data accurate or useful? What is this data *unrepresentative* of? (Who is missing and left out of the data?)
     * Knowing what you know now about machine learning, what will a model trained on this data help you do? Are there are alternative (non-machine learning) methods you could use instead?
     
-2. Pick from one of the following three "coding exercise" options:
+3. Pick from one of the following three "coding exercise" options:
     * Option #1: Augment Lydia Jessup's [311 Calls ml5.js example](https://editor.p5js.org/lydiajessup/sketches/NQ6iRoAM2). You could add an additional input field, customize the interface, or change other parameters of `ml5.neuralNetwork()`. 
     * Option #2: Train a machine learning model in ml5.js with the dataset you picked for part 1 of the assignment.
     * Option #3: Continue working on your sketch from [Assignment 4](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/wiki/Assignment-4). Document improvements or changes you made. 
