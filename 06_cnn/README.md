@@ -20,7 +20,7 @@
 
 ### Examples
 
-- [Displaying MNIST](mnist_viewer) (no web editor version)
+- [Displaying MNIST](https://editor.p5js.org/ima_ml/sketches/ndqnn8p3F)
 - [Displaying Quick, Draw! 28x28 images](https://editor.p5js.org/ima_ml/sketches/wOO4nvwyw)
 - [Animating Quick, Draw! paths](https://editor.p5js.org/ima_ml/sketches/aT9zxHX7n)
 
@@ -32,7 +32,7 @@
 - [Faces of Humanity](http://project.laboiteatortue.com/facesofhumanity/) by [Tortue](www.laboiteatortue.com)
 - [Scribbling Speech](http://xinyue.de/scribbling-speech.html) by [Xinyue Yang](http://xinyue.de/)
 - [How do you draw a circle?](https://qz.com/994486/the-way-you-draw-circles-says-a-lot-about-you/) by [Quartz](https://qz.com/)
-- [Machine Learning for Visualization](https://medium.com/@enjalot/machine-learning-for-visualization-927a9dff1cab) - Talk / article by Ian Johnson
+- [Machine Learning for Visualization](https://medium.com/@enjalot/machine-learning-for-visualization-927a9dff1cab)
 
 ### Related Projects:
 
@@ -59,7 +59,6 @@
 - [Original 1998 "LetNet5" paper: "Gradient-Based Learning Applied to Document Recognition"](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) by Y. Lecun, L. Bottou, Y. Bengio, P. Haffner
 - [How computers got shockingly good at recognizing images](https://arstechnica.com/science/2018/12/how-computers-got-shockingly-good-at-recognizing-images/) by Timothy B. Lee
 - [Image Kernels Explained Visually](http://setosa.io/ev/image-kernels/) by Victor Powell
-- [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) by Ujjwal Karn
 - [A visual and intuitive understanding of deep learning, CNNs](https://www.youtube.com/watch?v=Oqm9vsf_hvU) (0:00 - 9:40) by Octavio Good
 
 ### Examples
@@ -73,11 +72,8 @@
 
 #### Reading
 
-- [@ellennickles summary](https://github.com/ml5js/Intro-ML-Arts-IMA/issues/59#issuecomment-539356461) of [Datasheets for Datasets](https://arxiv.org/abs/1803.09010#) paper.
-- [A Duke study recorded thousands of students’ faces](https://www.dukechronicle.com/article/2019/06/duke-university-facial-recognition-data-set-study-surveillance-video-students-china-uyghur) by Jake Satisky
-- [Atlanta Asks Google Whether It Targeted Black Homeless People](https://www.nytimes.com/2019/10/04/technology/google-facial-recognition-atlanta-homeless.html) by Jack Nicas, NY Times
 - [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) by Ujjwal Karn
-- [AI ‘Emotion Recognition’ can’t be Trusted](https://theverge.com/2019/7/25/8929793/emotion-recognition-analysis-ai-machine-learning-facial-expression-review) by James Vincent
+- [Machine Learning for Visualization by Ian Johnson](https://medium.com/@enjalot/machine-learning-for-visualization-927a9dff1cab)
 
 ### Reflection
 
