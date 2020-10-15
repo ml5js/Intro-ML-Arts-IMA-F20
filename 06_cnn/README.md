@@ -84,5 +84,6 @@
     - [Classifying Drawings with ml5's DoodleNet: output in DOM element](https://editor.p5js.org/ima_ml/sketches/IbXlN6voN) -- *Can you make this one work with webcam input instead of canvas?*
     - [Classifying Drawings with ml5's DoodleNet: output in separate canvas](https://editor.p5js.org/ima_ml/sketches/XIZEoKBTL) 
 
+Complete a blog post with thoughts on the Quick, Draw dataset and your code exercise. [Link from the homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/wiki/Assignment-6).
 
 
