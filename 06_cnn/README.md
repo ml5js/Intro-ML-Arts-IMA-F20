@@ -72,11 +72,11 @@
 - [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) by Ujjwal Karn
 - [Exploring and Visualizing an Open Global Dataset](https://research.googleblog.com/2017/08/exploring-and-visualizing-open-global.html) by Google Research
 
-### Reflection
+#### Reflection
 
 - After playing [Quick, Draw](https://quickdraw.withgoogle.com/) in class, reviewing the [Quick, Draw](https://quickdraw.withgoogle.com/data), and reading the above [Exploring and Visualizing an Open Global Dataset](https://research.googleblog.com/2017/08/exploring-and-visualizing-open-global.html) by Google Research, consider the following question. How can visualization help diagnose "data for inclusion" and "identify concrete ways that anyone can improve the variety of data, as well as check for potential biases."
 
-### Coding Exercise
+#### Coding Exercise
 
 - Build off of one of the following code examples (or invent your own) to develop you own creative use of Quick, Draw data.
     - [Rendering Quick, Draw drawings](https://editor.p5js.org/ima_ml/sketches/vCfQL93k7)
