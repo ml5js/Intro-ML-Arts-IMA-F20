@@ -81,7 +81,7 @@
 - Build off of one of the following code examples (or invent your own) to develop you own creative use of Quick, Draw data.
     - [Rendering Quick, Draw drawings](https://editor.p5js.org/ima_ml/sketches/vCfQL93k7)
     - [Animating Quick, Draw! paths](https://editor.p5js.org/ima_ml/sketches/aT9zxHX7n)
-    - [Classifying Drawings with ml5's DoodleNet: output in DOM element](https://editor.p5js.org/ima_ml/sketches/IbXlN6voN) 
+    - [Classifying Drawings with ml5's DoodleNet: output in DOM element](https://editor.p5js.org/ima_ml/sketches/IbXlN6voN) -- *Can you make this one work with webcam input instead of canvas?*
     - [Classifying Drawings with ml5's DoodleNet: output in separate canvas](https://editor.p5js.org/ima_ml/sketches/XIZEoKBTL) 
 
 
