@@ -17,7 +17,7 @@
 - [ITP Course Generator by Allison Parrish](http://static.decontextualize.com/toys/next_semester)
 - [N-Grams and Markov Chains by Allison Parrish](http://www.decontextualize.com/teaching/rwet/n-grams-and-markov-chains/)
 - [Markov Chains from A2Z](https://shiffman.net/a2z/markov/)
-- [Markov Chain video tutorial Part 1](https://youtu.be/eGFJ8vugIWA), [Markov Chain video tutorial Part 2](https://www.youtube.com/watch?v=9r8CmofnbAQ)
+- [Markov Chain video tutorial Part 1](https://youtu.be/eGFJ8vugIWA), [Markov Chain video tutorial Part 2](https://youtu.be/9r8CmofnbAQ)
 - [Markov Chain p5.js example](https://editor.p5js.org/codingtrain/sketches/AAgqWiJAW)
 
 ### RNNs
@@ -36,15 +36,21 @@
 - [RNN for generating Baroque Music video](https://www.youtube.com/watch?v=SacogDL_4JU)
 - [Let's Read a Story](https://medium.com/ml5js/lets-read-a-story-talking-to-books-using-semantic-similarity-f283168b4264) by Itay Niv
 
-### RDP (Ramer-Douglas-Peucker) Algorithm
+### SketchRNN
 
-- [p5.js RDP Example](https://editor.p5js.org/codingtrain/sketches/SQjSugKn6)
+- 🎥 [Generating Drawings with SketchRNN code video](https://thecodingtrain.com/CodingChallenges/128-sketchrnn-snowflakes)
+  - 💻 [Generating Drawings with SketchRNN code](https://editor.p5js.org/ml5/sketches/SketchRNN_basic)
+- 🎥 [Interactive Drawings with SketchRNN video](https://thecodingtrain.com/CodingChallenges/153-interactive-sketchrnn.html)
+  - 💻 [Interactive Drawing with SketchRNN code](https://editor.p5js.org/codingtrain/sketches/hcumr-aua)
+- 🎥 [RDP Line Simplification](https://thecodingtrain.com/CodingChallenges/152-rdp-algorithm.html)
 
-### SketchRNN Examples
+### charRNN
 
-- [Generating Drawings with SketchRNN](https://editor.p5js.org/ml5/sketches/SketchRNN_basic)
-- [Interactive Drawings with SketchRNN](https://editor.p5js.org/ml5/sketches/SketchRNN_interactive)
-- [Interactive Drawing with SketchRNN and RDP algorithm](https://editor.p5js.org/ima_ml/sketches/fMg0FmkED)
+- 📋 [charRNN reference](https://learn.ml5js.org/#/reference/charrnn)
+- 💻 [charRNN examples](https://learn.ml5js.org/#/reference/charrnn?id=examples)
+  - [charRNN generate](https://examples.ml5js.org/p5js/charrnn/charrnn_text/)
+  - [charRNN interactive](https://examples.ml5js.org/p5js/charrnn/charrnn_interactive/)
+  - [charRNN stateful](https://examples.ml5js.org/p5js/charrnn/charrnn_text_stateful/)\_
 
 ## Session B: TBD
 
