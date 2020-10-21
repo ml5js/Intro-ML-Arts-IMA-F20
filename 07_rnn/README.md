@@ -16,7 +16,7 @@
 - 🔗 [N-Grams and Markov Chains by Allison Parrish](http://www.decontextualize.com/teaching/rwet/n-grams-and-markov-chains/)
 - 🔗 [Markov Chains from A2Z](https://shiffman.net/a2z/markov/)
 - 🎥 [Markov Chain video tutorial Part 1](https://youtu.be/eGFJ8vugIWA), [Markov Chain video tutorial Part 2](https://youtu.be/9r8CmofnbAQ)
-  - 💻[Markov Chain p5.js example](https://editor.p5js.org/codingtrain/sketches/AAgqWiJAW)
+  - 💻[Markov Chain p5.js example](https://editor.p5js.org/ima_ml/sketches/FW9u9zhz0)
 
 ### RNNs
 
