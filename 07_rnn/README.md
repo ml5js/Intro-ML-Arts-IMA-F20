@@ -60,6 +60,8 @@
 #### Reading
 
 - [What Can Machine Learning Teach Us About Ourselves?](https://medium.com/processing-foundation/what-can-machine-learning-teach-us-about-ourselves-65b268431890), Interview with Emily Martinez, ml5.js Fellow 2020
+- [The Subtext of a Black Corpus](https://medium.com/ml5js/the-subtext-of-a-black-corpus-4440de02eb32), In conversation with ITP SIRs Nikita Huggins & Ayodamola Okunseinde by Ashley Lewis
+
 
 #### Instructions
 
