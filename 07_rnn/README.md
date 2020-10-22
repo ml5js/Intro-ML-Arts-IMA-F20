@@ -55,7 +55,7 @@
 
 - 📚 [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
 
-### Assignment 6 Due Sunday October 25
+### Assignment 7 Due Sunday October 25
 
 #### Reading
 
