@@ -60,9 +60,36 @@
 #### Reading
 
 - [What Can Machine Learning Teach Us About Ourselves?](https://medium.com/processing-foundation/what-can-machine-learning-teach-us-about-ourselves-65b268431890), Interview with Emily Martinez, ml5.js Fellow 2020
-- [The Subtext of a Black Corpus](https://medium.com/ml5js/the-subtext-of-a-black-corpus-4440de02eb32), In conversation with ITP SIRs Nikita Huggins & Ayodamola Okunseinde by Ashley Lewis
+- [The Subtext of a Black Corpus](https://medium.com/ml5js/the-subtext-of-a-black-corpus-4440de02eb32), In conversation with ITP research fellows Nikita Huggins & Ayodamola Okunseinde by Ashley Lewis
 
+#### Reflection
 
-#### Instructions
+Emily Martinez proposes a set of questions to ask related to working with a corpus of text data. Pick one (or two) of the questions to reflect on as you respond to the above two readings:
 
-- TBD
+- How can we be more intentional about what we build given the current limitations, problems, and constraints of ML algorithms?
+- How do we prepare datasets and set up guidelines that protect the bodies of knowledge of our communities, that honors lineage, that upholds ethical frameworks rooted in shared, agreed-upon values?
+- How do we work in consensual and respectful ways with texts by marginalized authors that are not as well-represented, and by virtue of that fact alone, much more likely to be misrepresented, misappropriated, or misunderstood if we are not careful?
+- How well can we ensure that the essence of these texts doesn’t dissolve into a word-soup that gets misconstrued?
+- Given that so many of the existing “big data” language models are trained with Western texts and proprietary datasets, what does it even mean to try to decolonize AI?
+- Who do we entrust to do this work?
+- How do we deal with credit and attribution of our new creations?
+- How do we really do ethics with machine learning?
+- How do we get through this whole list of concerns and still build AI that is fun, respectful, tender, pleasurable, kind?
+
+#### Coding Exercise
+
+Pick from one of the following options (or invent your own) related to working with sequential data and recurrent neural networks.
+
+- Text generation
+
+  - Generate text with [a markov chain](https://editor.p5js.org/ima_ml/sketches/FW9u9zhz0).
+  - Generate text with one of the provided [pre-trained charRNN models](https://github.com/ml5js/ml5-data-and-models/tree/main/models/charRNN). Reminder: these examples do not run in the p5 web editor! This [workflow series](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zu_uqEA6NqhLzKLACwU74X) may help!
+  - Train your own model! Instructions can be found in the [training-charRNN](https://github.com/ml5js/training-charRNN) repo, however proceed with caution! There are so many errors that can arise due to python versions and other configuration settings required. You are also welcome to email me (Dan) your text file and I will train the model for you.
+
+- Doodle generation
+
+  - Experiment with generating doodles with the [sketchRNN](https://ml5js.org/reference/api-SketchRNN/) model. What kinds of interactions result from [drawing with the model](https://editor.p5js.org/codingtrain/sketches/hcumr-aua)?
+
+- Music generation!
+
+  - We did not cover this in class, but recurrent neural networks can also be used the generate musical sequencies (melodies, beats, etc.). You can find examples for [musical markov chains](https://luisaph.github.io/the-code-of-music-2018/#Markov) and [musical recurrent neural networks](https://luisaph.github.io/the-code-of-music-2018/#NN) as part of Luisa Pereira's [Code of Music materials](https://luisaph.github.io/the-code-of-music-2018/).
