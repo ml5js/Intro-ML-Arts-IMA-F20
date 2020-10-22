@@ -16,7 +16,7 @@
 - 🔗 [N-Grams and Markov Chains by Allison Parrish](http://www.decontextualize.com/teaching/rwet/n-grams-and-markov-chains/)
 - 🔗 [Markov Chains from A2Z](https://shiffman.net/a2z/markov/)
 - 🎥 [Markov Chain video tutorial Part 1](https://youtu.be/eGFJ8vugIWA), [Markov Chain video tutorial Part 2](https://youtu.be/9r8CmofnbAQ)
-  - 💻[Markov Chain p5.js example](https://editor.p5js.org/codingtrain/sketches/AAgqWiJAW)
+  - 💻[Markov Chain p5.js example](https://editor.p5js.org/ima_ml/sketches/FW9u9zhz0)
 
 ### RNNs
 
@@ -60,6 +60,8 @@
 #### Reading
 
 - [What Can Machine Learning Teach Us About Ourselves?](https://medium.com/processing-foundation/what-can-machine-learning-teach-us-about-ourselves-65b268431890), Interview with Emily Martinez, ml5.js Fellow 2020
+- [The Subtext of a Black Corpus](https://medium.com/ml5js/the-subtext-of-a-black-corpus-4440de02eb32), In conversation with ITP SIRs Nikita Huggins & Ayodamola Okunseinde by Ashley Lewis
+
 
 #### Instructions
 
