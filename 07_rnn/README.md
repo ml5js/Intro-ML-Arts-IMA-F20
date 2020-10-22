@@ -93,3 +93,5 @@ Pick from one of the following options (or invent your own) related to working w
 - Music generation!
 
   - We did not cover this in class, but recurrent neural networks can also be used the generate musical sequencies (melodies, beats, etc.). You can find examples for [musical markov chains](https://luisaph.github.io/the-code-of-music-2018/#Markov) and [musical recurrent neural networks](https://luisaph.github.io/the-code-of-music-2018/#NN) as part of Luisa Pereira's [Code of Music materials](https://luisaph.github.io/the-code-of-music-2018/).
+
+Complete a blog post with your reading reflection and documentation of your code exercise. [Link from the homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/wiki/Assignment-7).
