@@ -84,7 +84,7 @@ Pick from one of the following options (or invent your own) related to working w
 
   - Generate text with [a markov chain](https://editor.p5js.org/ima_ml/sketches/FW9u9zhz0).
   - Generate text with one of the provided [pre-trained charRNN models](https://github.com/ml5js/ml5-data-and-models/tree/main/models/charRNN). Reminder: these examples do not run in the p5 web editor! This [workflow series](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zu_uqEA6NqhLzKLACwU74X) may help! [Download the charRNN code examples here](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/tree/main/07_rnn/charRNN-examples).
-  - Train your own model! Instructions can be found in the [training-charRNN](https://github.com/ml5js/training-charRNN) repo, however proceed with caution! There are so many errors that can arise due to python versions and other configuration settings required. You are also welcome to email me (Dan) your text file and I will train the model for you.
+  - Train your own model! [Instructions can be found in the training-charRNN](https://github.com/ml5js/training-charRNN/blob/main/README.md) repo, however proceed with caution! There are so many errors that can arise due to python versions and other configuration settings required. You are also welcome to email me (Dan) your text file and I will train the model for you.
 
 - Doodle generation
 
