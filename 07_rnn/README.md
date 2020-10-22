@@ -4,10 +4,10 @@
 
 ### Objectives:
 
-- Learn about Sequential Data and Markov Chains
-- Learn about Recurrent Neural Network architectures
-- Become familiar with use cases for RNNs
-- Learn ml5’s RNN functions and underlying pre-trained models
+- 💡 Learn about Sequential Data and Markov Chains
+- 💡 Learn about Recurrent Neural Network architectures
+- 💡 Become familiar with use cases for RNNs
+- 💡 Learn ml5’s RNN functions and underlying pre-trained models
 
 ### Markov Chains
 
@@ -25,15 +25,15 @@
 
 ### Related Projects:
 
-- [Sunspring](https://arstechnica.com/gaming/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/)
-- [Double Agent](http://littlepig.org.uk/installations/doubleagent/index.htm) by Simon Biggs (Drawing)
-- [Four Experiments in Handwriting with a Neural Network](https://distill.pub/2016/handwriting/) (Drawing)
-- [10 things artificial intelligence did in 2018](http://aiweirdness.com/post/181621835642/10-things-artificial-intelligence-did-in-2018) by Janelle Shane (Text)
-- [Writing with the Machine](https://www.robinsloan.com/notes/writing-with-the-machine/)
-- [Magenta: Make Music and Art Using Machine Learning](https://magenta.tensorflow.org/)
-- [Handwriting Generation with RNN and p5.js](http://blog.otoro.net/2017/01/01/recurrent-neural-network-artist/)
-- [RNN for generating Baroque Music video](https://www.youtube.com/watch?v=SacogDL_4JU)
-- [Let's Read a Story](https://medium.com/ml5js/lets-read-a-story-talking-to-books-using-semantic-similarity-f283168b4264) by Itay Niv
+- 🍿 [Sunspring](https://arstechnica.com/gaming/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/)
+- 🎨 [Double Agent](http://littlepig.org.uk/installations/doubleagent/index.htm) by Simon Biggs (Drawing)
+- 🎨 [Four Experiments in Handwriting with a Neural Network](https://distill.pub/2016/handwriting/) (Drawing)
+- 📖 [10 things artificial intelligence did in 2018](http://aiweirdness.com/post/181621835642/10-things-artificial-intelligence-did-in-2018) by Janelle Shane (Text)
+- 📖 [Writing with the Machine](https://www.robinsloan.com/notes/writing-with-the-machine/)
+- 🎶 [Magenta: Make Music and Art Using Machine Learning](https://magenta.tensorflow.org/)
+- 🎨 [Handwriting Generation with RNN and p5.js](http://blog.otoro.net/2017/01/01/recurrent-neural-network-artist/)
+- 🎶 [RNN for generating Baroque Music video](https://www.youtube.com/watch?v=SacogDL_4JU)
+- 📖 [Let's Read a Story](https://medium.com/ml5js/lets-read-a-story-talking-to-books-using-semantic-similarity-f283168b4264) by Itay Niv
 
 ### SketchRNN
 
