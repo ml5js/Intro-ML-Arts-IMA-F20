@@ -44,4 +44,4 @@
    - Can you write a Model and Data "biography" that covers where it came from and what data was used to train it?
    - Describe the results of working with the model, do they match your expectations?
    - Can you "break" the model? In other words, use it in a way that it was intended for and what kinds of results do you get?
-2. Document your thoughts on the above questions and your experience working with RunwayML in a blog post. Include screenshots and screen captures of your workflow. Compare and constrast working with RunwayML as a tool for machine learning as related to ml5.js, python, and any other tools explored this semester.
+2. Document your thoughts on the above questions and your experience working with RunwayML in a blog post. Include screenshots and screen captures of your workflow. Compare and constrast working with RunwayML as a tool for machine learning as related to ml5.js, python, and any other tools explored this semester. [Link from the homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F20/wiki/Assignment-8).
