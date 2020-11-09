@@ -37,17 +37,17 @@
 - Session 1 (T 10/19): SketchRNN (Drawing)
 - Session 2 (W 10/21): charRNN (Text)
 
-### 8: [Pre-Trained Models with RunwayML](08_runwayML)
+### 8: [Pre-Trained Models with RunwayML](08_runwayml)
 
 - Session 1 (M 10/28): Introduction to RunwayML
 - Session 2 (W 10/30): RunwayML Model Workshop
 
-### 9: [Generative Models with Runway](09_runwayML)
+### 9: [Generative Models with Runway](09_runwayml)
 
 - Session 1 (M 11/2): Hosted Models and Networking
 - Session 2 (W 11/4): Generative Adversarial Networks, Interactive Image Synthesis
 
-### 10: [Model Training with RunwayML](10_runwayML)
+### 10: [Model Training with RunwayML](10_runwayml)
 
 - Session 1 (M 11/9): StyleGAN and Object Detection
 - Session 2 (W 11/11): GPT-2
