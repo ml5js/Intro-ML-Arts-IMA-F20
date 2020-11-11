@@ -57,10 +57,10 @@
 - Session 1 (M 11/16): Project Proposals 1
 - Session 2 (W 11/18): Project Proposals 2
 
-### 11: [Final Project Development](final)
+### 12: [Final Project Development](final)
 
-- Session 1 (M 11/16): Individual Meetings
-- Session 2 (M 11/16): Individual Meetings
+- Session 1 (M 11/23): Individual Meetings
+- Session 2 (M 11/25): Individual Meetings
 
 ### 13: [Final Project Development](final)
 
