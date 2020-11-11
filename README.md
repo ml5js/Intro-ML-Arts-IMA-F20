@@ -54,18 +54,18 @@
 
 ### 11: [Final Project Proposals](final)
 
-- Session 1 (M 11/16): Group 1
-- Session 2 (W 11/18): Group 2
-- Session 3 (M 11/23): Group 3
+- Session 1 (M 11/16): Project Proposals 1
+- Session 2 (W 11/18): Project Proposals 2
 
-### 12: [Final Project Development](final)
+### 11: [Final Project Development](final)
 
-- Session 1 (W 11/25)
+- Session 1 (M 11/16): Individual Meetings
+- Session 2 (M 11/16): Individual Meetings
 
-### 13: [Final Project Testing](final)
+### 13: [Final Project Development](final)
 
-- Session 1 (M 11/30): Group 1
-- Session 2 (W 12/2): Group 2
+- Session 1 (M 11/30): TBD 1
+- Session 2 (W 12/2): TBD 2
 
 ### 14: Final Project Presentations
 
