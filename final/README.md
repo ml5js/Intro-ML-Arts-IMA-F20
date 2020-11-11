@@ -34,13 +34,7 @@ Document the above elements in a blog post and selectively edit the material to 
 
 ## Workshop and Individual Meetings
 
-These two sessions are dedicated to time to make progress on your project. Make a goal for yourself for each session and check the schedule for your assigned meeting time. There will also be time to informally ask questions or have additional individual discussions about your project.
-
-- TBD
-
-## User Testing Guidelines
-
-The testing will follow a speed "round robin" format. There will be two sessions - for each session half the students will set up projects in the class room and the other half will "view" or "interact with" or "listen to" your project for ~10 minutes.
+These sessions are dedicated to time to make progress on your project. Make a goal for yourself for each session and check the schedule for your assigned meeting time. There will also be time to informally ask questions or have additional individual discussions about your project.
 
 - TBD
 
