@@ -31,6 +31,7 @@ Document the above elements in a blog post and selectively edit the material to 
 - Is the idea clear? What do you understand / not understand?
 - Is the scope reasonable? Can it be done in such a short period of time?
 - Any suggestions for relevant tutorials, examples, or other resources?
+- Are there ways this project can be "remote" user tested? What questions would you want to ask?
 
 ## Workshop and Individual Meetings
 
