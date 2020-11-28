@@ -39,7 +39,7 @@ These sessions are dedicated to time to make progress on your project. Make a go
 
 ## Final Project Testing
 
-The testing will happen asynchronously in Discord. Between Monday, Nov 30 and Wed Dec 2, each student should post a link to a "work-in-progress". While having a functioning prototype is a great goal, you should also feel free to post images / sketches of work-in-progress for feedback. It's up to you to design your testing and feedback in the way that is most helpful for your project. This can mean something different for different projects. For an interactive web application, it's easier to know what to do. For a physical installation or performance or chat bot, this may be more difficult. If you are not sure how to design your testing, e-mail me and we'll discuss.
+The testing will happen asynchronously in Discord. Between Monday, Nov 30 and Wed Dec 2, each student should post a link to a "work-in-progress". While having a functioning prototype is a great goal, you should also feel free to post images / video documentation, sketches for feedback. It's up to you to design your testing and feedback in the way that is most helpful for your project. This can mean something different for different projects. For an interactive web application, a link to a rough prototype is ideal. For a physical installation or performance or twitter bot, you might need to get creative. If you are not sure how to design your testing, e-mail me and we'll discuss.
 
 Every student should test at least 3 other projects. You'll be tagged your assignments in Discord, but you should feel free to bounce around and check out everyone's work!
 
