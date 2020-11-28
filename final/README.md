@@ -33,11 +33,16 @@ Document the above elements in a blog post and selectively edit the material to 
 - Any suggestions for relevant tutorials, examples, or other resources?
 - Are there ways this project can be "remote" user tested? What questions would you want to ask?
 
-## Workshop and Individual Meetings
+## Individual Meetings
 
 These sessions are dedicated to time to make progress on your project. Make a goal for yourself for each session and check the schedule for your assigned meeting time. There will also be time to informally ask questions or have additional individual discussions about your project.
 
-- TBD
+## Final Project Testing
+
+The testing will happen asynchronously in Discord. Between Monday, Nov 30 and Wed Dec 2, each student should post a link to a "work-in-progress". While having a functioning prototype is a great goal, you should also feel free to post images / sketches of work-in-progress for feedback. It's up to you to design your testing and feedback in the way that is most helpful for your project. This can mean something different for different projects. For an interactive web application, it's easier to know what to do. For a physical installation or performance or chat bot, this may be more difficult. If you are not sure how to design your testing, e-mail me and we'll discuss.
+
+Every student should test at least 3 other projects. You'll be tagged your assignments in Discord, but you should feel free to bounce around and check out everyone's work!
+
 
 ## Final Presentation and Documentation Guidelines
 
